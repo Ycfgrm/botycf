@@ -1,0 +1,15 @@
+{
+    "849638815702319144": {
+        "solde": 200,
+        "objets": [
+            {
+                "nom": "Fragment de Tablette",
+                "rarete": "Commun",
+                "fragments_possedes": 1,
+                "fragments_requis": 1,
+                "est_reconstitue": false,
+                "valeur_base": 23
+            }
+        ]
+    }
+}
